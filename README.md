@@ -4,7 +4,7 @@ agostinho@lisbon:~$ whoami
 
 # Agostinho Pina Ramos
 
-**Software & platform engineer** · Lisbon, Portugal
+**Software Engineer** · Backend · DevOps · Platform · SRE · Lisbon, Portugal
 
 [![GitHub](https://img.shields.io/badge/GitHub-agostinhoramos-181717?style=flat&logo=github)](https://github.com/agostinhoramos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agostinhoramos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agostinhoramos)
