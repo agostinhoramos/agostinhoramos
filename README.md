@@ -4,7 +4,7 @@ agostinho@lisbon:~$ whoami
 
 # Agostinho Pina Ramos
 
-**Software Engineer** · Backend · DevOps · Platform · SRE · Lisbon, Portugal
+**Software Engineer** · Backend · DevOps · Platform · SRE
 
 [![GitHub](https://img.shields.io/badge/GitHub-agostinhoramos-181717?style=flat&logo=github)](https://github.com/agostinhoramos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agostinhoramos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agostinhoramos)
@@ -34,10 +34,10 @@ services:
     - PostgreSQL, MongoDB, MySQL, SQL Server, Oracle SQL, SQL
     - Redis, RabbitMQ, Kafka, Apache Superset, Celery, MQTT
   delivery:
-    - Git, CI/CD, Jenkins, Octopus Deploy, SonarQube, microservices, REST API
-    - monitoring, Grafana, Node-RED, Shell script
+    - Git, CI/CD, Jenkins, Azure DevOps, Octopus Deploy, SonarQube, microservices, REST API
+    - monitoring, Grafana, Prometheus, Node-RED, Shell script
   build:
-    - Java, Python, Node.js, Flask, Django, DRF, Laravel
+    - Java, Python, Go, Node.js, Flask, Django, DRF, Laravel
     - ASP.NET, ASP.NET MVC, JavaScript, PHP, C#, C/C++, Perl
     - Next.js, Tailwind CSS, Android Studio
 ```
